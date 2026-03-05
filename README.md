@@ -1,36 +1,46 @@
-
 ![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
 
-# Lista de compras
+# 🛒 Shopping List
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+A web application developed as part of the course on building dynamic pages with JavaScript.
 
-## 🔨 Funcionalidades do projeto
+---
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+## 🔨 Project Features
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+This application allows you to dynamically add items to a shopping list, with options to edit or delete them.  
+Each item includes its name along with the date and time it was created.  
+You can also mark items as purchased using a checkbox.
 
-## ✔️ Técnicas e tecnologias utilizadas
+![Example: typing "cat food" in the input field, clicking the edit button to open a popup, changing the name to "dog food," and then deleting the item.](https://imgur.com/isPj7Xf.gif)
 
-As técnicas e tecnologias utilizadas pra isso são:
+---
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+## ✔️ Techniques and Technologies Used
 
-## 📁 Acesso ao projeto
+The project was built using:
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+- **HTML** → Creating the page elements  
+- **CSS** → Styling the application  
+- **JavaScript** → Building dynamic elements through DOM manipulation  
 
-## 🛠️ Abrir e rodar o projeto
+---
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+## 📁 Accessing the Project
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+You can [view the source code of the base project](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) or [download it here](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+---
+
+## 🛠️ Running the Project
+
+After downloading, open the project in **Visual Studio Code**:
+
+1. In the top menu, click **File** > **Open Folder** (or a similar option).  
+2. Locate the folder where the project is saved and select it.  
+   - If you downloaded the project as a `.zip`, extract it before opening.  
+3. Click **OK** to confirm.  
+
+Once opened, you can run the application using the **Live Server** extension 🏆
 
 
